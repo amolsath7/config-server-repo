@@ -1,6 +1,11 @@
-my.property = hello from config server
-topic.arn = arn:aws:sns:us-east-2:353961506820:zebramdw
-secret.key = h8vMK1DEVSTXCi9Akb36wZjx9U5AYWB4wbxiEqo8
-access.key = AKIAVE2N77ACJFNIVMU4
-bucket.name = my-aws-enc-bukcet
-bucket.key = my-object-key
+my:
+  property: hello from config server
+topic:
+  arn: arn:aws:sns:us-east-2:353961506820:zebramdw
+secret:
+  key: h8vMK1DEVSTXCi9Akb36wZjx9U5AYWB4wbxiEqo8
+access:
+  key: AKIAVE2N77ACJFNIVMU4
+bucket:
+  name: my-aws-enc-bukcet
+  key: my-object-key
