@@ -9,7 +9,10 @@ access:
 bucket:
   name: my-aws-enc-bukcet
   key: my-object-key
-as:
- property: example-postconstruct
- property2: 2
-  
+lang:
+  en_US:
+    contentid: otp-message
+    value: Your otp is
+  zh_CN:
+    contentid: otp-message
+    value: 您的验证码是
