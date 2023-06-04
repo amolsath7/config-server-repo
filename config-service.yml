@@ -9,3 +9,7 @@ access:
 bucket:
   name: my-aws-enc-bukcet
   key: my-object-key
+as:
+ property: example-postconstruct
+ property2: 2
+  
