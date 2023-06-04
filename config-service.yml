@@ -11,8 +11,6 @@ bucket:
   key: my-object-key
 lang:
   en_US:
-    contentid: otp-message
     value: Your otp is
   zh_CN:
-    contentid: otp-message
     value: 您的验证码是
