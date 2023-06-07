@@ -1,2 +1,2 @@
-otp:
- message: Your OTP is
+my:
+  property: hello from config server
