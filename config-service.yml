@@ -1,5 +1,3 @@
-my:
-  property: hello from config server
 topic:
   arn: arn:aws:sns:us-east-2:353961506820:zebramdw
 secret:
@@ -9,8 +7,4 @@ access:
 bucket:
   name: my-aws-enc-bukcet
   key: my-object-key
-lang:
-  en_US:
-    value: Your otp is
-  zh_CN:
-    value: 您的验证码是
+
